@@ -1,9 +1,9 @@
 # Apple TV 1st Gen Projects
 Hi! Aaron here!
 ## Pages
-[OS Images](OSimages.md)
-[Modifications/Better Heatsink](Modifications/BetterHeatsink/Info.md)
-[Modifications/External (or Portable) Power](Modifications/ExternalOrPortablePower/Info.md)
+- [OS Images](OSimages.md)
+- [Modifications/Better Heatsink](Modifications/BetterHeatsink/Info.md)
+- [Modifications/External (or Portable) Power](Modifications/ExternalOrPortablePower/Info.md)
 
 ## About
 This repository is a collection of projects performed on the Apple TV 1st Generation (2006)
