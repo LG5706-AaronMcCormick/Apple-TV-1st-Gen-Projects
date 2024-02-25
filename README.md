@@ -2,6 +2,8 @@
 Hi! Aaron here!
 ## Pages
 [OS Images](OSimages.md)
+[Modifications/Better Heatsink](Modifications/Better%20Heatsync/Info.md)
+[Modifications/External (or Portable) Power](Modifications/External%20or%20Portable%20Power/Info.md)
 
 ## About
 This repository is a collection of projects performed on the Apple TV 1st Generation (2006)
