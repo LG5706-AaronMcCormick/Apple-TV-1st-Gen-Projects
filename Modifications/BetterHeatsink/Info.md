@@ -1,4 +1,4 @@
-# Better Heatsinc Mod
+# Better Heatsink Mod
 ## ⚠️ Mod is under development ⚠️
 
 This mod provides a more optimised heatsink and cooling system whilst using mostly stock parts
